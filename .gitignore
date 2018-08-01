@@ -1,0 +1,28 @@
+*.class
+*.log
+
+# sbt specific
+.cache
+.history
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+
+# IDEA files
+target
+*.iml
+*.ipr
+*.iws
+.idea
+
+# generated java files
+**/src/main/generated-java
+**/src/main/generated-resources

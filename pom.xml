@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.jarrlorck</groupId>
+    <artifactId>test.projects</artifactId>
+    <version>1.0.0</version>
+    <packaging>pom</packaging>
+    <name>Small test projects</name>
+
+    <modules>
+        <module>CompletableFuture</module>
+        <module>DaemonThreads</module>
+        <module>HBaseTest</module>
+        <module>HtmlClient</module>
+        <module>LeetCode</module>
+        <module>Java_byte_code_in_practice</module>
+        <module>PhantomRefs</module>
+        <module>SofrtReferenceCache</module>
+        <module>SpringWithAkka</module>
+        <module>Subtype Polymorphism with Generic Polymorphism</module>
+        <module>Test</module>
+        <module>Tipico</module>
+    </modules>
+
+</project>
