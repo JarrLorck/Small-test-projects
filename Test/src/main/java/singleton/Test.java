@@ -1,4 +1,4 @@
-package com.jc;
+package singleton;
 
 import java.util.Arrays;
 
