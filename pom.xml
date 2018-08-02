@@ -20,6 +20,7 @@
         <module>Subtype Polymorphism with Generic Polymorphism</module>
         <module>Test</module>
         <module>Tipico</module>
+        <module>interview-tasks</module>
     </modules>
 
 </project>
