@@ -45,11 +45,11 @@ public class Task1 {
                 8,
                 50,
                 5}));
-//        System.out.println(task1.solution(new int[]{
-//                2, -3, -10, -5,
-//                3, 1, 10, 8,
-//                5, 50, 2, 5,
-//                13, 5, 5, -5}));
+        System.out.println(task1.solution(new int[]{
+                2, -3, -10, -5,
+                3, 1, 10, 8,
+                5, 50, 2, 5,
+                13, 5, 5, -5}));
     }
 
 }
