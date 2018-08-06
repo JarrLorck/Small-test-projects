@@ -41,10 +41,15 @@ public class Task1 {
 
 //        System.out.println(task1.solution(new int[]{-3, -14, -5, 7, 8, 42, 8, 3}));
         System.out.println(task1.solution(new int[]{
-                2, -3, -10, -5,
-                3, 1, 10, 8,
-                5, 50, 2, 5,
-                13, 5, 5, -5}));
+                -5,
+                8,
+                50,
+                5}));
+//        System.out.println(task1.solution(new int[]{
+//                2, -3, -10, -5,
+//                3, 1, 10, 8,
+//                5, 50, 2, 5,
+//                13, 5, 5, -5}));
     }
 
 }
